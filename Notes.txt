@@ -1,0 +1,11 @@
+the ls command will list all files and folders in the directory that it was
+called in.
+-l shows user, group, weight, permissions and type
+-a will list all files including hidden files
+
+chmod +rx to read and execute
+
+the ln command is used to create shortcuts in linux
+ls -s source file output file
+
+ls --format=comma --classify
